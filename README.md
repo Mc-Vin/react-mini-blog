@@ -1,4 +1,4 @@
-This is a blog website developed by 
+This is a blog website developed by React, Readux, React/Redux and Axios.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
