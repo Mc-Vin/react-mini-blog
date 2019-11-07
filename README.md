@@ -1,10 +1,10 @@
-This is a blog website developed by React, Readux, React/Redux and Axios.
+This is a blog website developed by React, Redux, React-Redux, Redux-thunk and Axios.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo
 
-![](D:\web study\itcast\就业班\02练习\09Vue.js\10第十天\vue-admin\src\assets\static\demo\demo.gif)
+![](https://github.com/Mc-Vin/react-mini-blog/blob/master/src/static/demo/demo.gif)
 
 ## Available Scripts
 
